@@ -1,0 +1,22 @@
+1. Definisi & Latar Belakang Data Mining
+Data Mining adalah proses menemukan pola, pengetahuan, atau informasi tersembunyi dari kumpulan data yang besar menggunakan teknik statistik, machine learning, dan basis data.
+Latar belakang munculnya data mining adalah ledakan data di berbagai sektor (bisnis, kesehatan, pendidikan, dsb.) yang membutuhkan metode analisis otomatis untuk pengambilan keputusan.
+2. Tahapan Proses Data Mining
+Tahapan umum dalam proses data mining meliputi:
+Seleksi Data – memilih data relevan dari sumber.
+Pra-pemrosesan Data (Preprocessing) – membersihkan dan menyiapkan data.
+Transformasi Data – menyusun data ke dalam format yang sesuai.
+Penerapan Model (Mining) – menggunakan algoritma (misalnya klasifikasi, klastering).
+3. Data: Jenis dan Kualitas
+Jenis data: Numerik, kategorikal, ordinal, teks, gambar, dll.
+Kualitas data: Bergantung pada kelengkapan, konsistensi, akurasi, dan kebersihan data.
+4. Klasifikasi: Konsep Dasar
+Klasifikasi adalah proses memetakan data input ke dalam kategori target.
+Merupakan jenis supervised learning, di mana model dilatih dengan data berlabel.
+5. Algoritma Klasifikasi
+Decision Tree:
+Model berbentuk pohon keputusan yang membagi data berdasarkan fitur.
+Mudah diinterpretasikan dan divisualisasikan.
+Naive Bayes:
+Berdasarkan teori probabilitas Bayes.
+Cocok untuk data kategorikal dan teks, serta asumsi independensi antar fitur.
